@@ -1,0 +1,89 @@
+section{
+    /* grid-area: sectio; */
+}
+.titulo-contato{
+    width: 379px;
+    height: 30px;
+}
+
+.input-nome{
+    width: 679px;
+    height: 40px;
+    margin-left: 450px;
+    border: 3px solid #988C77;
+}
+
+.nome{
+    margin-left: 450px;
+    font-family: monospace;
+    font-size: 18px;
+
+}
+.input-email{
+width: 388px;
+height: 40px;
+margin-left: 450px;
+border: 3px solid #988C77;
+}
+.email{
+    margin-left: 450px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+.telefone{
+    margin-left: 850px;
+    margin-top: -60px;
+    margin-bottom: 0px;
+    font-family: monospace;
+    font-size: 18px;
+    color: black;
+}
+
+.input-telefone{
+    width: 271px; 
+    margin-left: 850px;
+    border: 3px solid #988C77;
+    height: 40px;
+}
+.map{
+    margin-left: 450px;
+    border: 8px solid #988C77;
+}
+.contatoEmail{
+    margin-top: 1px;
+    margin-left: 930px;
+    font-family: monospace;
+    font-size: 16px;
+    color: #988C77;
+}
+.contatoTelefone{
+    margin-left: 950px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    font-family: monospace;
+    font-size: 16px;
+    color: #988C77;
+}
+.input-mensagem{
+    width: 679px;
+    height: 120px;
+    border: 3px solid #988C77;
+    margin-left: 450px;
+    
+}
+.mensagem{
+    margin-left: 450px;
+    font-family: monospace;
+    font-size: 18px;
+    color: black;
+}
+.botao{
+    width: 200px;
+    height: 40px;
+    margin-left: 450px;
+    margin-top: 25px;
+    border: 2px solid #988C77;
+}

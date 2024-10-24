@@ -1,0 +1,69 @@
+main {
+  grid-area: main;
+  display: grid;
+  width: 1200px;
+  height: 875px;
+  margin: auto;
+  margin-top: 1000px;
+  margin-left: 351px;
+  margin-right: 368px;
+}
+
+.div-menu {
+  /* font-family: 'Aref Ruqaa'; */
+}
+
+.Entradas {
+  font-family: "Aref Ruqaa";
+  font-size: 24px;
+  color: #2a2426;
+  margin-left: 500px;
+  margin-top: -25px;
+  margin-bottom: 25px;
+}
+
+.valores {
+  font-family: "Aref Ruqaa";
+  color: #988c77;
+  font-size: 18px;
+  text-decoration: none;
+  margin-left: 450px;
+  padding: 3px;
+}
+
+.pratos{
+    font-family: monospace;
+    font-size: 18px;
+    color: #2a2426;
+    margin-left: 520px;
+    margin-top: px;
+    padding: 4px;
+}
+.titulo-menu{
+     width: 380px;
+     height: 30px;
+
+
+}
+.div-pratos{
+    margin-top: -140px;
+
+}
+.pratosPrincipais{
+    font-family: "Aref Ruqaa";
+    font-size: 24px;
+    color: #2a2426;
+    margin-left: 500px;
+    margin-top: -145px;
+    margin-bottom: 25px;
+}
+.div-pratosprincipais{
+    margin-top: -140px;
+}
+
+.img-pratos{
+    margin-left: 800px;
+    margin-top: -250px;
+    margin-bottom: 25px;
+    padding: 100px;
+}

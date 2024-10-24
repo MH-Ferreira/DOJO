@@ -1,0 +1,23 @@
+footer {
+    background-color: #2A2426;
+    width: 1900px;
+    height: 70px;
+    top: 2721px;
+    left: 10px;
+    padding: 20px 350px 20px 350px;
+    opacity: 0px;
+    align-items: center;
+    display: flex;
+    }
+
+    footer p{
+        font-family: monospace;
+        justify-content: space-around;
+        color: #EDECE4;
+    }
+    
+    .div-footer{
+        display: flex;
+        justify-content: space-around;
+        gap: 600px;
+    }

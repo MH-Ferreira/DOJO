@@ -1,0 +1,68 @@
+header {
+  grid-area: header;
+  display: grid;
+  width: 1200px;
+  height: 875px;
+  margin: auto;
+  margin-top: 76px;
+  margin-left: 351px;
+  margin-right: 368px;
+}
+
+.logo {
+  width: 201px;
+  height: 126px;
+}
+
+.data{
+    width:320px ;
+    border-right: 3px solid #2A2426;
+    border-bottom: 3px solid #2A2426;
+}
+
+.data1 {
+  font-size: var(--text-small);
+  color: var(--color);
+}
+
+
+.data2 {
+  font-size: var(--text-small);
+  color: var(--color);
+  margin-bottom: -75px;
+  margin-top: -4px;
+}
+
+.contato{
+    width:320px;
+    margin-bottom: 60px;
+    border-right: 3px solid #2A2426;
+   
+}
+
+
+.telefone {
+  font-size: 18px;
+  color: #988c77;
+  font-family: monospace;
+  margin-top: 11px;
+  margin-bottom:-70px;
+}
+
+.barras {
+  width: 400px;
+  height: 30px;
+    font-size: 300px;
+    font-weight: 900;
+  /* margin-top: -50px; */
+}
+
+.img-rest {
+  display: grid;
+  width: 679px;
+  height: 875px;
+  border: 3px solid #cbc6b9;
+  margin-top: -500px;
+  margin-left: 500px
+}
+
